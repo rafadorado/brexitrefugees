@@ -13,7 +13,8 @@ Take a gander at our website for a collection of the most British things we foun
 ### Donate to Brexit Refugees
 After the Brexit many Britons are facing problems with their very little worthy pound. Many cannot afford their magaluf holidays and have to go to their back gardens instead. 
 Help these Brexit refugees to afford their baked beans by donating some well worth euros. 
-[Buy Me a Beer](https://www.gofundme.com/brexitrefugees)
+
+[Donate to the poor Brexit Refugee](https://www.gofundme.com/brexitrefugees)
 
 ### Contact me
 
