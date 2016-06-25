@@ -14,4 +14,4 @@ Take a gander at our website for a collection of the most British things we foun
 
 [brexitrefugees@yahoo.com](mailto:email@domain.com)
 
-^ we didn't even bother to create a real email because we are too poor now are mighty pound has plumted to the ground.
+^ We didn't even bother to create a real email because we are too poor now are mighty pound has plumted to the ground.
