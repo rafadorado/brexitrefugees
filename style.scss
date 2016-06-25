@@ -293,6 +293,11 @@ footer {
   padding: 5px;
   display: inline-block;
 }
+.btn-gofundme{
+  padding: 5px;
+  border-radius: 40px;
+  line-height: 40px;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
