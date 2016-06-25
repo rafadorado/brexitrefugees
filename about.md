@@ -10,6 +10,10 @@ This website was created by a Brexit refugee and her Spanish partner in crime wh
 
 Take a gander at our website for a collection of the most British things we found and what we are going to miss now that Great Britain has jumped (with no looking back) out of the European Union. We show you Brexit Refugees in Magaluf, Costa Del sol and Cornwall on holiday. There ain't no party like a British teenage, sex fest, fish and chip package party! 
 
+### Donate to Brexit Refugees
+After the Brexit many Britons are facing problems with their very little worthy pound. Many cannot afford their magaluf holidays and have to go to their back gardens instead. 
+Help these Brexit refugees to afford their baked beans by donating some well worth euros. https://www.gofundme.com/brexitrefugees
+
 ### Contact me
 
 [brexitrefugees@yahoo.com](mailto:email@domain.com)
