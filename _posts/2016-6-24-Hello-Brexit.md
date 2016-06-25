@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Brexit!
-image: ![Inglorious Bastards]({{ site.baseurl }}/images/19.jpg "Straight out of Europe")
+image: /images/19.jpg
 ---
 
 Straight out of Europe
